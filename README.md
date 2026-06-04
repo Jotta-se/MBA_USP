@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 🌾 Execução Orçamentária do MAPA & Impacto Socioeconômico
 
@@ -320,4 +320,3 @@ Todos os artefatos são salvos na pasta `output/`:
 Desenvolvido como parte do Trabalho de Conclusão de Curso
 
 </div>
-]]>
