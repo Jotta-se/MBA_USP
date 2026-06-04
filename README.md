@@ -317,7 +317,9 @@ Todos os artefatos são salvos na pasta `output/`:
 
 **MBA Data Science & Analytics — USP/Esalq**
 
-Desenvolvido como parte do Trabalho de Conclusão de Curso <br>
+📄 Zenodo (DOI): https://zenodo.org/records/20516708 
+📄 SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6870818 
+
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0612--4576-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0612-4576)
 
 </div>
